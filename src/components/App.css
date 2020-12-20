@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.top__panel {
+  background-color: rgb(62, 60, 68);
+}
+.panel {
+  height: 50vh;
+  display: flex;
+}
